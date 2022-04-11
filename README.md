@@ -1,24 +1,27 @@
-# back-stage
+### 说明
 
-## Project setup
-```
-npm install
-```
+管理员账号：admin 密码：admin
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+用户：huaj  密码：huaj
+用户登录后只能访问首页和商品管理模块
 
-### Compiles and minifies for production
-```
-npm run build
-```
+基本功能：首页结合了echar有折线图、柱状图、饼图等用来展示用户信息、品牌信息、订单信息；
+用户管理栏实现增删改查等功能：
 
-### Lints and fixes files
-```
-npm run lint
-```
+### 技术
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> 涉及技术：vue2 、vuex、vueRouter、axios、mockjs、ElementUI、Echar图表
+
+> 难点：
+>
+> - 对element、echar等公共组件的封装
+> - mock模拟数据、后端接口的编写
+> - 动态添加路由规则
+
+### 效果图
+
+![](./img/home.PNG)
+
+---
+
+![](./img/user.PNG)
