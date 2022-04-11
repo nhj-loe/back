@@ -20,8 +20,8 @@
 
 ### 效果图
 
-![](./img/home.PNG)
+![home](./img/home.PNG)
 
 ---
 
-![](./img/user.PNG)
+![user](./img/user.PNG)
