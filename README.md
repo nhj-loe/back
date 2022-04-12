@@ -20,8 +20,7 @@
 
 ### 效果图
 
-![home](./img/home.PNG)
+![home](https://github.com/nhj-loe/back/blob/master/img/home.PNG)
 
 ---
-
-![user](./img/user.PNG)
+![user](https://github.com/nhj-loe/back/blob/master/img/user.PNG)
