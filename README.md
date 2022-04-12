@@ -11,7 +11,7 @@
 ### 技术
 
 > 涉及技术：vue2 、vuex、vueRouter、axios、mockjs、ElementUI、Echar图表
-
+> 相关依赖：mockjs、Cookiejs
 > 难点：
 >
 > - 对element、echar等公共组件的封装
@@ -20,7 +20,7 @@
 
 ### 效果图
 
-![home](https://github.com/nhj-loe/back/blob/master/img/home.PNG)
+![home](https://raw.githubusercontent.com/nhj-loe/back/master/img/home.PNG)
 
 ---
-![user](https://github.com/nhj-loe/back/blob/master/img/user.PNG)
+![user](https://raw.githubusercontent.com/nhj-loe/back/master/img/user.PNG)
